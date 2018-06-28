@@ -1,0 +1,34 @@
+.table-header {
+    margin-bottom: 15px;
+}
+
+.alert {
+    padding: 6px;
+    margin-bottom: 0;
+}
+
+.blog-post img{
+    max-width: 100%;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.jumbotron {
+    width: 100%;
+    background-image: url('/img/main.jpg');
+    color: white;
+}
+
+.grid_list {
+    text-align: center;
+}
+
+.grid_img {
+    width: 200px;
+}
+
+.page-header {
+    margin-top: 25px;
+}
